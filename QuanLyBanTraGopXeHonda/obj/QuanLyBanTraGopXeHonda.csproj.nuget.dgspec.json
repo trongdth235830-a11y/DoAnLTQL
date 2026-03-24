@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj": {}
+    "C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj": {}
   },
   "projects": {
-    "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj": {
+    "C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj",
+        "projectUniqueName": "C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj",
         "projectName": "QuanLyBanTraGopXeHonda",
-        "projectPath": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\obj\\",
+        "projectPath": "C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj",
+        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -88,7 +88,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

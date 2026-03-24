@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\QuanLyBanTraGopXeHonda",
+    "\\QuanLyBanTraGopXeHonda\\Data",
+    "\\QuanLyBanTraGopXeHonda\\Forms",
+    "\\QuanLyBanTraGopXeHonda\\Migrations"
   ],
+  "SelectedNode": "\\QuanLyBanTraGopXeHonda\\Forms\\frmHangXe.cs",
   "PreviewInSolutionExplorer": false
 }
