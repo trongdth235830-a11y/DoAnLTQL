@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\",
+  "WorkspaceRootPath": "C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\dai hoc\\do an net\\doanltql\\quanlybantragopxehonda\\migrations\\20260302051806_khoitaocsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\migrations\\20260302051806_khoitaocsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Migrations\\20260302051806_KhoiTaoCSDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanTraGopXeHonda\\Migrations\\20260302051806_KhoiTaoCSDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|C:\\Dai Hoc\\do an NET\\DoAnLTQL\\quanlybantragopxehonda\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Data\\Xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanTraGopXeHonda\\Data\\Xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\dai hoc\\do an net\\doanltql\\quanlybantragopxehonda\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\quanlybantragopxehonda\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quanlybantragopxehonda\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\dai hoc\\do an net\\doanltql\\quanlybantragopxehonda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\dai hoc\\do an net\\doanltql\\quanlybantragopxehonda\\data\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\data\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanTraGopXeHonda\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "20260302051806_KhoiTaoCSDL.cs",
-              "DocumentMoniker": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Migrations\\20260302051806_KhoiTaoCSDL.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Migrations\\20260302051806_KhoiTaoCSDL.cs",
               "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Migrations\\20260302051806_KhoiTaoCSDL.cs",
-              "ToolTip": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Migrations\\20260302051806_KhoiTaoCSDL.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Migrations\\20260302051806_KhoiTaoCSDL.cs",
               "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Migrations\\20260302051806_KhoiTaoCSDL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,54 +67,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Xe.cs",
-              "DocumentMoniker": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Data\\Xe.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Data\\Xe.cs",
               "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Data\\Xe.cs",
-              "ToolTip": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Data\\Xe.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Data\\Xe.cs",
               "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Data\\Xe.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T05:11:15.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmSanPham.cs [Design]",
-              "DocumentMoniker": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
-              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
-              "ToolTip": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs [Design]",
-              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:59:21.075Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-02T05:11:15.009Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmSanPham.cs",
-              "DocumentMoniker": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
               "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
-              "ToolTip": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
-              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
-              "ViewState": "AgIAAKYAAAAAAAAAAAAAAK8AAAAUAAAAAAAAAA==",
+              "ToolTip": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:58:18.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T04:59:21.075Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAAK8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:58:18.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Program.cs",
               "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Program.cs",
-              "ToolTip": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Program.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\trongdth235830-a11y\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Program.cs",
               "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAA+wBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:56:56.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T04:56:56.804Z"
             }
           ]
         }

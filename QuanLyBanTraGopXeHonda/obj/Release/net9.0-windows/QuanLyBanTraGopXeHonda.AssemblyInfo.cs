@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuanLyBanTraGopXeHonda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f87ff7795f629570e52ac8a5f0813c362a36b55d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fba3885e155834f74315bbbe61fa63795aabbeef")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuanLyBanTraGopXeHonda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuanLyBanTraGopXeHonda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
